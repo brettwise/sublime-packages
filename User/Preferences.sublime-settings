@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Colorcoder/Monokai (Flake8Lint) (SL) (Colorcoded).tmTheme",
+	"font_size": 14.0,
+	"ignored_packages":
+	[
+	],
+	"original_color_scheme": "Packages/User/SublimeLinter/Monokai (Flake8Lint) (SL).tmTheme",
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

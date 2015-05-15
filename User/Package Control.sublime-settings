@@ -1,0 +1,32 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Colorcoder",
+		"Djaneiro",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"HTML2Jade",
+		"Jade",
+		"JSLint",
+		"Package Control",
+		"Python Flake8 Lint",
+		"SCSS",
+		"Siteleaf Liquid Syntax",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"Theme - Soda",
+		"WakaTime",
+		"wpseek.com WordPress Developer Assistant"
+	],
+	"repositories":
+	[
+		"https://github.com/theymaybecoders/sublime-tomorrow-theme",
+		"https://github.com/titoBouzout/SideBarEnhancements",
+		"https://github.com/alienhard/SublimeAllAutocomplete"
+	]
+}

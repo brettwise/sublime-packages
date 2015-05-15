@@ -1,0 +1,1 @@
+{"description": "Sublime Text plugin: lint Python files with pep8, pep257, pyflake, mccabe and pep8-naming", "url": "https://github.com/dreadatour/Flake8Lint", "platforms": ["*"], "version": "2.3.2", "sublime_text": "*", "dependencies": []}
